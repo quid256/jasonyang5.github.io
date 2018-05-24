@@ -14,3 +14,4 @@ git clone https://github.com/flazz/vim-colorschemes.git ~/.vim/bundle/vim-colors
 git clone https://github.com/spolu/dwm.vim.git ~/.vim/bundle/dwm.vim
 
 # installs .vimrc
+wget 
